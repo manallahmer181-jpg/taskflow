@@ -61,5 +61,6 @@
       "password": "sara123",
       "name": "Sara"
     }
-  ]
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
 }
